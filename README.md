@@ -8,4 +8,5 @@ Inventory file with public IP address af my EC2 instance
 A key pair to connect my EC2 instance
 
 This is the result that we got by browsing the public DNS address of the EC2 instance with the preconfigured port:
+
 ![helloworldansible](https://user-images.githubusercontent.com/108334621/179763082-0807db3c-f461-49d6-8f8b-27e4c6c624b7.PNG)
