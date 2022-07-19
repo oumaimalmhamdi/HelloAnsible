@@ -1,5 +1,5 @@
 # HelloAnsible
-In this repo I'm Controling Remotely Using Ansible, I', Building a playbook that automates configuration of an EC2 instance by adapting manual instructions to Ansible Playbook tasks.
+In this repo I'm Controling Remotely Using Ansible, I'm Building a playbook that automates configuration of an EC2 instance by adapting manual instructions to Ansible Playbook tasks.
 
 As a Prerequisite I have:
 A linux EC2 instance with port 3000 open for the inbound access.
