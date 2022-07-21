@@ -6,7 +6,7 @@
   name: "update apt packages."
 - 
   apt: 
-    upgrade: 'true'
+    upgrade: 'yes'
   become: true
   name: "upgrade packages"
 - 
