@@ -30,9 +30,9 @@ jobs:
               apk add --update ansible
       - run:
           name: Run Playbook and Configure server
-          command: yes |
+          command: |
               # Your command
-              ansible-playbook -i inventory main-remote.yml
+              yes | ansible-playbook -i inventory main-remote.yml
 workflows:
   my_workflow:
     jobs:
