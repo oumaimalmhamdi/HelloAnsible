@@ -140,7 +140,7 @@ jobs:
 workflows:
   my_workflow:
     jobs:
-      - create_infrastructure
+      #- create_infrastructure
       #- configure_infrastructure
       #- smoke_test
       - create_and_deploy_front_end
